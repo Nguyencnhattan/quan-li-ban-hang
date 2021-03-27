@@ -1,0 +1,172 @@
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\BanHang.dll.config
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\BanHang.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\BanHang.pdb
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\csc.exe
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\csc.exe.config
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\csc.rsp
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\csi.exe
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\csi.exe.config
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\csi.rsp
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.AppContext.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Console.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.IO.Compression.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.IO.Pipes.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.AccessControl.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.Claims.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.ValueTuple.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Xml.XPath.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\vbc.exe
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\vbc.exe.config
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\vbc.rsp
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\VBCSCompiler.exe
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NguyenThanhSang\lab\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+D:\NguyenThanhSang\lab\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+D:\NguyenThanhSang\lab\BanHang\BanHang\obj\Debug\BanHang.csproj.CopyComplete
+D:\NguyenThanhSang\lab\BanHang\BanHang\obj\Debug\BanHang.dll
+D:\NguyenThanhSang\lab\BanHang\BanHang\obj\Debug\BanHang.pdb
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\BanHang.dll.config
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\BanHang.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\BanHang.pdb
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\csc.exe
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\csc.exe.config
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\csc.rsp
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\csi.exe
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\csi.exe.config
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\csi.rsp
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.AppContext.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Collections.Immutable.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Console.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.IO.Compression.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.IO.FileSystem.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.IO.Pipes.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.AccessControl.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.Claims.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.ValueTuple.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Xml.XPath.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\vbc.exe
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\vbc.exe.config
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\vbc.rsp
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\VBCSCompiler.exe
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\roslyn\VBCSCompiler.exe.config
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\obj\Debug\BanHang.csproj.CopyComplete
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\obj\Debug\BanHang.dll
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\obj\Debug\BanHang.pdb
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\App_Data\QLBanHang.mdf
+G:\ASP.NET\LAB\Buoi 13\BanHang\BanHang\bin\App_Data\QLBanHang_log.ldf
+E:\Asp.net\BanHang\BanHang\bin\App_Data\QLBanHang.mdf
+E:\Asp.net\BanHang\BanHang\bin\App_Data\QLBanHang_log.ldf
+E:\Asp.net\BanHang\BanHang\bin\BanHang.dll.config
+E:\Asp.net\BanHang\BanHang\bin\BanHang.dll
+E:\Asp.net\BanHang\BanHang\bin\BanHang.pdb
+E:\Asp.net\BanHang\BanHang\bin\roslyn\csc.exe
+E:\Asp.net\BanHang\BanHang\bin\roslyn\csc.exe.config
+E:\Asp.net\BanHang\BanHang\bin\roslyn\csc.rsp
+E:\Asp.net\BanHang\BanHang\bin\roslyn\csi.exe
+E:\Asp.net\BanHang\BanHang\bin\roslyn\csi.exe.config
+E:\Asp.net\BanHang\BanHang\bin\roslyn\csi.rsp
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Asp.net\BanHang\BanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.AppContext.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Collections.Immutable.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Console.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.IO.Compression.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.IO.FileSystem.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.IO.Pipes.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.AccessControl.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.Claims.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.ValueTuple.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Xml.XPath.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Asp.net\BanHang\BanHang\bin\roslyn\vbc.exe
+E:\Asp.net\BanHang\BanHang\bin\roslyn\vbc.exe.config
+E:\Asp.net\BanHang\BanHang\bin\roslyn\vbc.rsp
+E:\Asp.net\BanHang\BanHang\bin\roslyn\VBCSCompiler.exe
+E:\Asp.net\BanHang\BanHang\bin\roslyn\VBCSCompiler.exe.config
+E:\Asp.net\BanHang\BanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asp.net\BanHang\BanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asp.net\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+E:\Asp.net\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+E:\Asp.net\BanHang\BanHang\obj\Debug\BanHang.csproj.CopyComplete
+E:\Asp.net\BanHang\BanHang\obj\Debug\BanHang.dll
+E:\Asp.net\BanHang\BanHang\obj\Debug\BanHang.pdb

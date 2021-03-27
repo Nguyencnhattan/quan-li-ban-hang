@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="default.master.cs" Inherits="BanHang._default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Website bán hàng</title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="menu">            
+            <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+              <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="Home.aspx">Trang Chủ <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="Product.aspx">Sản Phẩm</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="Promotion.aspx">Khuyến mãi</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Liên hệ</a>
+                  </li>
+                </ul>
+                <input class="form-control mr-sm-2" style="width: 30%" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+              </div>
+            </nav>
+        </div>
+        <div class="left">
+            <asp:DataList ID="DataList1" runat="server">
+                <ItemTemplate>
+                    <asp:LinkButton ID="LinkButton1" runat="server" Text='<%# Eval("TenLoai") %>' CommandArgument='<%# Eval("Maloai") %>' OnClick="LinkButton1_Click"></asp:LinkButton>
+                </ItemTemplate>
+            </asp:DataList>
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+         <div class="right">
+             <asp:Login ID="Login1" runat="server" OnAuthenticate="Login1_Authenticate"></asp:Login>
+        </div>  
+    </form>
+</body>
+</html>
